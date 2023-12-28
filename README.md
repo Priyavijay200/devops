@@ -1,2 +1,1 @@
-# devops
-contains the commands
+hello all
